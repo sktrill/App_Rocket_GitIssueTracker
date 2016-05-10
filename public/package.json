@@ -1,0 +1,19 @@
+{
+  "name": "react-twitter",
+  "description": "Git issues tracker with React.js",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "author": "swapnilkotecha",
+  "homepage": "https://twitter.com/thekotecha",
+  "engines" : {
+    "node" : "0.12.x"
+  }
+}

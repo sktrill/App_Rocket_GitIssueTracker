@@ -1,0 +1,129 @@
+a:hover {
+  cursor: pointer;
+}
+
+.gavatar-images {
+	width: 25px;
+	height: 25px;
+}
+
+.gavatar-images-lg {
+	width: 60px;
+	height: 60px;
+	text-align: center;
+}
+
+.issues-title {
+	font-weight: bold;
+}
+
+.x-small {
+	font-size: 75%;
+}
+
+.glyph-open {
+	display: block;
+	color: #ffcc5c;
+	vertical-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+
+.label-tag {
+	display: inline;
+	padding: .2em .6em .3em;
+	font-size: 75%;
+	font-weight: 700;
+	line-height: 1;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	border-radius: .25em;
+}
+
+.label-tag-lg {
+	display: inline;
+	float: right;
+	padding: .2em .6em .3em;
+	font-size: 85%;
+	font-weight: 700;
+	line-height: 1;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	border-radius: .25em;
+}
+
+.label-success {
+	background-color: #ffcc5c;
+}
+
+.panel-default>.panel-heading {
+  color: #fff;
+  background-color: #88d8b0;
+  border-color: #ddd;
+
+	background-image: -webkit-linear-gradient(top,#88d8b0 0,#96ceb4 100%);
+	background-image: -o-linear-gradient(top,#88d8b0 0,#96ceb4 100%);
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#88d8b0),to(#96ceb4));
+	background-image: linear-gradient(to bottom,#88d8b0 0,#96ceb4 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#88d8b0', endColorstr='#96ceb4', GradientType=0);
+	background-repeat: repeat-x;
+}
+
+.label-spacer {
+	float: right;
+}
+
+.issues-box-container {
+	color: #fff;
+	background-color: #88d8b0;
+	border-color: #ddd;
+
+	background-image: -webkit-linear-gradient(top,#88d8b0 0,#96ceb4 100%);
+	background-image: -o-linear-gradient(top,#88d8b0 0,#96ceb4 100%);
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#88d8b0),to(#96ceb4));
+	background-image: linear-gradient(to bottom,#88d8b0 0,#96ceb4 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#88d8b0', endColorstr='#96ceb4', GradientType=0);
+	background-repeat: repeat-x;
+
+}
+
+.issue-details-scroll {
+	overflow: auto;
+	height: 300px;
+}
+
+.comment-info {
+	float: right;
+}
+
+.comment {
+    overflow: hidden;
+    padding: 0 0 1em;
+    border-bottom: 1px solid #ddd;
+    margin: 0 0 1em;
+    *zoom: 1;
+}
+
+.comment-img {
+    display: block;
+		float: left;
+    margin-right: 15px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.comment-body {
+    overflow: hidden;
+}
+
+.comment
+.comment-text {
+    padding: 10px;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    background: #fff;
+}
