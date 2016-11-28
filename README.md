@@ -66,26 +66,3 @@ README.md
 
 
 Time Log (total time spent: 9-12 hrs)
-----------------------------------------
-26-July, Sunday (2 hrs):
-	- Learned React
-	- Hacked with online examples
-27-July, Monday (4-5 hrs):
-	- Built React components (issues list, issue details)
-	- Completed unit testing of key components
-	- Fixed issues with Jest (facebook react testing tool) - documentation not great (issues with latest version of node)
-	- Learned Flux, react-routr
-30-July, Thursday (2-3 hrs):
-	- Built lightweight router
-	- Built React components (comments)
-	- Additional features:
-		- labels text contrasting
-		- innerhtml XSS fix
-		- async load fix + testing
-		- timestamp readibility formatting
-		- regex for issues details + comments text clean up (git user links, url links, line formatting)
-		- issues list fixed table
-	- Hacking with Flux and react-routr (neither solution were implemented as they were unnecessary for this app)
-31-July, Friday (1-2 hrs):
-	- Updated documentation
-	- Code clean up
